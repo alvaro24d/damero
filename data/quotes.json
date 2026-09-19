@@ -1,0 +1,104 @@
+[
+  {
+    "id": "cervantes-quijote-lugar",
+    "text": "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. Una olla de algo más vaca que carnero, salpicón las más noches y lentejas los viernes.",
+    "author": "Miguel de Cervantes",
+    "work": "Don Quijote de la Mancha"
+  },
+  {
+    "id": "cervantes-quijote-libertad",
+    "text": "La libertad, Sancho, es uno de los más preciosos dones que a los hombres dieron los cielos; con ella no pueden igualarse los tesoros que encierra la tierra ni el mar encubre. Por la libertad, así como por la honra, se puede y debe aventurar la vida, dijo don Quijote.",
+    "author": "Miguel de Cervantes",
+    "work": "Don Quijote de la Mancha"
+  },
+  {
+    "id": "calderon-vida-sueno",
+    "text": "Yo sueño que estoy aquí de estas prisiones cargado, y soñé que en otro estado más lisonjero me vi. ¿Qué es la vida? Un frenesí. ¿Qué es la vida? Una ilusión, una sombra, una ficción, y el mayor bien es pequeño, que toda la vida es sueño, y los sueños, sueños son.",
+    "author": "Pedro Calderón de la Barca",
+    "work": "La vida es sueño"
+  },
+  {
+    "id": "manrique-coplas-rios",
+    "text": "Nuestras vidas son los ríos que van a dar en la mar, que es el morir; allí van los señoríos derechos a se acabar y consumir; allí los ríos caudales, allí los otros medianos y más chicos, y llegados, son iguales los que viven por sus manos y los ricos. Dejo las invocaciones de los famosos poetas.",
+    "author": "Jorge Manrique",
+    "work": "Coplas a la muerte de su padre"
+  },
+  {
+    "id": "machado-caminante",
+    "text": "Caminante, son tus huellas el camino, y nada más; caminante, no hay camino, se hace camino al andar. Al andar se hace el camino, y al volver la vista atrás se ve la senda que nunca se ha de volver a pisar.",
+    "author": "Antonio Machado",
+    "work": "Campos de Castilla"
+  },
+  {
+    "id": "lorca-romance-sonambulo",
+    "text": "Verde que te quiero verde. Verde viento. Verdes ramas. El barco sobre la mar y el caballo en la montaña. Bajo la luna gitana, las cosas la están mirando y ella no puede mirarlas. Grandes estrellas de escarcha vienen con el pez de sombra que abre el camino del alba. La higuera frota su viento con la lija de sus ramas.",
+    "author": "Federico García Lorca",
+    "work": "Romancero gitano"
+  },
+  {
+    "id": "becquer-golondrinas",
+    "text": "Volverán las oscuras golondrinas de tu balcón sus nidos a colgar, y otra vez con el ala a sus cristales jugando llamarán; pero aquellas que el vuelo refrenaban tu hermosura y mi dicha al contemplar, esas no volverán.",
+    "author": "Gustavo Adolfo Bécquer",
+    "work": "Rimas"
+  },
+  {
+    "id": "dario-yo-soy-aquel",
+    "text": "Yo soy aquel que ayer no más decía el verso azul y la canción profana, en cuya noche un ruiseñor había que era alondra de luz por la mañana. El dueño fui de mi jardín de sueño, lleno de rosas y de cisnes vagos; el dueño de las tórtolas, el dueño de góndolas y liras en los lagos.",
+    "author": "Rubén Darío",
+    "work": "Cantos de vida y esperanza"
+  },
+  {
+    "id": "jimenez-platero",
+    "text": "Platero es pequeño, peludo, suave. Solo los espejos de azabache de sus ojos son duros cual dos escarabajos de cristal negro. Es tierno y mimoso igual que un niño, pero fuerte y seco por dentro, como de piedra.",
+    "author": "Juan Ramón Jiménez",
+    "work": "Platero y yo"
+  },
+  {
+    "id": "clarin-regenta-siesta",
+    "text": "La heroica ciudad dormía la siesta. El viento sur, caliente y perezoso, empujaba las nubes blanquecinas que se rasgaban al correr hacia el norte. En las calles no había más ruido que el rumor estridente de los remolinos de polvo.",
+    "author": "Leopoldo Alas Clarín",
+    "work": "La Regenta"
+  },
+  {
+    "id": "unamuno-niebla-augusto",
+    "text": "Al aparecer Augusto a la puerta de su casa extendió el brazo derecho, con la palma de la mano abierta y vuelta al suelo, y dirigiendo los ojos al cielo quedó un momento parado.",
+    "author": "Miguel de Unamuno",
+    "work": "Niebla"
+  },
+  {
+    "id": "borges-biblioteca",
+    "text": "El universo, que otros llaman la Biblioteca, se compone de un número indefinido, y tal vez infinito, de galerías hexagonales, con vastos pozos de ventilación en el medio, cercados por barandas bajísimas. La Biblioteca es una esfera cuyo centro cabal es cualquier hexágono.",
+    "author": "Jorge Luis Borges",
+    "work": "La biblioteca de Babel"
+  },
+  {
+    "id": "pardobazan-pazos",
+    "text": "Por más que el jinete trataba de sofrenarlo agarrándose a las crines, no pudo evitar que las patas del caballo tropezasen con un montón de piedras, a tiempo que un ladrido feroz salía de la maleza.",
+    "author": "Emilia Pardo Bazán",
+    "work": "Los pazos de Ulloa"
+  },
+  {
+    "id": "sorjuana-hombres-necios",
+    "text": "Hombres necios que acusáis a la mujer sin razón, sin ver que sois la ocasión de lo mismo que culpáis; si con ansia sin igual solicitáis su desdén, ¿por qué queréis que obren bien si las incitáis al mal? ¿Cuál mayor culpa ha tenido en una pasión errada: la que cae de rogada, o el que ruega de caído?",
+    "author": "Sor Juana Inés de la Cruz",
+    "work": "Hombres necios que acusáis"
+  },
+  {
+    "id": "baroja-arbol-ciencia",
+    "text": "Serían las diez de la mañana de un día de octubre. En el patio de la Escuela de Arquitectura, grupos de estudiantes esperaban a que se abriese la clase. De la puerta de la calle de los Estudios iban entrando muchachos jóvenes.",
+    "author": "Pío Baroja",
+    "work": "El árbol de la ciencia"
+  },
+  {
+    "id": "laforet-nada",
+    "text": "Por dificultades en el último momento para adquirir billetes, llegué a Barcelona a medianoche, en un tren distinto del que había anunciado.",
+    "author": "Carmen Laforet",
+    "work": "Nada"
+  },
+  {
+    "id": "machado-retrato",
+    "text": "Mi infancia son recuerdos de un patio de Sevilla y un huerto claro donde madura el limonero; mi juventud, veinte años en tierra de Castilla; mi historia, algunos casos que recordar no quiero.",
+    "author": "Antonio Machado",
+    "work": "Retrato"
+  }
+]
